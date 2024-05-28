@@ -1,6 +1,6 @@
-## Hi there 👋
+#### Hi there 👋
 
-<!--
+## About Me
 **ChenHelena/ChenHelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## Portfolio
+
+|Project |Link |Skills |
+|-----|--------|-------- |
+|E-commerce website|3       |vue |
+|social networking sites  |12      |rails |
+|E-commerce website  |12      |rails |
+
