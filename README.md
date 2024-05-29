@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Keep improving myself
+- Keep improving myself 🤜
 - I’m currently learning Web development
 - Take notes on [Docusaurus](<https://js-notes-gamma.vercel.app/docs/intro>)
 
