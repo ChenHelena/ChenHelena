@@ -11,7 +11,7 @@
 
 |Project |Link |Skills |
 |-----|--------|-------- |
-|E-commerce website|[Link](<https://chenhelena.github.io/TastyTeaCo/#/>) | `vue` |
-|social networking sites  |     |`rails` |
-|E-commerce website  |[Link](<https://github.com/ChenHelena/my_citiesocial>) |`rails` |
+|E-commerce website|[Tasty tea Co.](<https://chenhelena.github.io/TastyTeaCo/#/>) | `Vue.js` `SCSS` `Javascript` `Boostrap` `Animation` `Axios` `RWD` |
+|social networking sites  |[Twitter Clone](<https://github.com/ChenHelena/twitter-clone>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
+|E-commerce website  |[City Social](<https://github.com/ChenHelena/my_citiesocial>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL` `Line Pay API` |
 
