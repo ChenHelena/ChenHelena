@@ -11,7 +11,7 @@
 
 |Project |Link |Skills |
 |-----|--------|-------- |
-|E-commerce website|3       |<span style="background-color:lightgrey; padding:3px 6px;border-radius:4px">vue</span> |
-|social networking sites  |12      |`rails` |
-|E-commerce website  |12      |rails |
+|E-commerce website|[Link](<https://chenhelena.github.io/TastyTeaCo/#/>) | `vue` |
+|social networking sites  |     |`rails` |
+|E-commerce website  |[Link](<https://github.com/ChenHelena/my_citiesocial>) |`rails` |
 
