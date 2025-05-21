@@ -11,7 +11,7 @@
 
 |Project |Link |Skills |
 |-----|--------|-------- |
-| Line Bot Travel Note   | [GitHub Repository](https://github.com/ChenHelena/line-bot-travel-note.git) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
+| Line Bot Travel Note   | [Line Bot Travel Note](https://github.com/ChenHelena/line-bot-travel-note.git) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
 |social networking sites  |[Twitter Clone](<https://github.com/ChenHelena/twitter-clone>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
 |E-commerce website  |[City Social](<https://github.com/ChenHelena/my_citiesocial>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL` `Line Pay API` |
 |E-commerce website|[Tasty tea Co.](<https://chenhelena.github.io/TastyTeaCo/#/>) | `Vue.js` `SCSS` `Javascript` `Boostrap` `Animation` `Axios` `RWD` |
