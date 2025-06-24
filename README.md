@@ -4,8 +4,7 @@
 
 - Always improving myself 🤜
 - I’m currently learning Web development
-- You can find my notes on [Docusaurus](<https://js-notes-gamma.vercel.app/docs/intro>)
-
+- You can find my notes on [hackmd](<https://hackmd.io/folders/PxzldyblrgwoHTikr8cI9>)、[Docusaurus](<https://js-notes-gamma.vercel.app/docs/intro>)
 
 ## Portfolio
 
