@@ -12,7 +12,7 @@
 |Project |Link |Skills |
 |-----|--------|-------- |
 | Everforest Backend | [Everforest Backend](https://github.com/hsilan-sui/everforest-backend) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `JWT` `RESTful API` `Swagger API` `Cookie` `OpenAI` `CORS` |
-| Everforest Backend API Docs | [Everforest Backend swagger API ](https://everforest-backend.zeabur.app/api-docs/) | Node.js Express TypeScript PostgreSQL TypeORM JWT RESTful API Swagger Cookie Docker OpenAI API |
+| Everforest Backend API Docs | [Everforest Backend swagger API ](https://everforest-backend.zeabur.app/api-docs/) |  |
 | Line Bot Travel Note   | [Line Bot Travel Note](https://github.com/ChenHelena/line-bot-travel-note.git) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
 |social networking sites  |[Twitter Clone](<https://github.com/ChenHelena/twitter-clone>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
 |E-commerce website  |[City Social](<https://github.com/ChenHelena/my_citiesocial>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL` `Line Pay API` |
